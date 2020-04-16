@@ -26,3 +26,16 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+#count {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+    background-color: #2E8A57;
+    color: white;
+    font-size: 2em;
+}
+
+#min,
+#plus {}
