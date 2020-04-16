@@ -26,6 +26,7 @@ h1 {
     display: flex;
     justify-content: center;
     position: relative;
+    flex-direction: column;
 }
 
 #count {
@@ -41,7 +42,6 @@ h1 {
 
 #min,
 #plus {
-    position: relative;
     width: 20px;
     height: 20px;
     border-radius: 50%;
