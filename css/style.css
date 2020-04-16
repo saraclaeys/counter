@@ -25,6 +25,7 @@ h1 {
     margin-top: 70px;
     display: flex;
     justify-content: center;
+    position: relative;
 }
 
 #count {
@@ -35,7 +36,14 @@ h1 {
     background-color: #2E8A57;
     color: white;
     font-size: 2em;
+    padding-bottom: 10px;
 }
 
-#min,
-#plus {}
+#min {
+    position: absolute;
+
+}
+
+#plus {
+    position: absolute;
+}
