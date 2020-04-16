@@ -23,10 +23,9 @@ h1 {
 
 #input_div {
     margin-top: 70px;
-    display: flex;
-    justify-content: center;
-    position: relative;
-    flex-direction: column;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 #count {
@@ -48,4 +47,16 @@ h1 {
     border: 1px solid white;
     background-color: #2E8A57;
     color: white;
+}
+
+#min{
+    position: absolute;
+    left: 0px;
+    top: 80%;
+}
+
+#plus{
+    position: absolute;
+    right: 0px;
+    top: 80%;
 }
