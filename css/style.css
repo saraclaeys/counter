@@ -33,7 +33,7 @@ h1 {
     width: 150px;
     height: 150px;
     border: 1px solid white;
-    background-color: #00A368;
+    background-color: #3b5c66;
     color: white;
     font-size: 3em;
     padding-bottom: 2rem;
@@ -44,7 +44,7 @@ h1 {
 #plus {
     width: 30px;
     height: 30px;
-    background-color: #00A368;
+    background-color: #3b5c66;
     color: white;
     font-size: 1.5em;
     border-radius: 50%;
